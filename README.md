@@ -1,4 +1,4 @@
-# IIITDMJ SPI?CPI Calculator
+# IIITDMJ SPI/CPI Calculator
 
 An Mobile Application based on the Flutter framework which used to calculate the SPI/CPI of the semester exam easily.
 
