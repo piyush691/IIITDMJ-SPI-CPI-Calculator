@@ -1,6 +1,15 @@
-# iiitdmj_calculator
+# IIITDMJ SPI?CPI Calculator
 
-A new Flutter application.
+An Mobile Application based on the Flutter framework which used to calculate the SPI/CPI of the semester exam easily.
+
+## Software Requirements
+
+Use one of the following IDE's:
+- Android Studio (Recommended)
+- VS Code
+
+
+Flutter: Use Stable Version *2.0*
 
 ## Getting Started
 
